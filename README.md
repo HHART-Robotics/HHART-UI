@@ -58,3 +58,8 @@ From the HHART repo root:
 ```text
 pnpm install && pnpm typecheck && pnpm test
 ```
+
+## Licence
+
+Licensed under the [Apache License 2.0](LICENSE) (Apache-2.0), like the rest of
+[HHART](https://github.com/HHART-Robotics/HHART). See [NOTICE](NOTICE).
