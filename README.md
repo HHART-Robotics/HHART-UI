@@ -2,6 +2,10 @@
 
 React + TypeScript operator UI for robots made with `hhart new`.
 
+Developed in [HHART](https://github.com/HHART-Robotics/HHART), where issues and PRs go.
+[HHART-UI](https://github.com/HHART-Robotics/HHART-UI) is a read-only mirror of
+this folder.
+
 | Export | |
 | --- | --- |
 | `Shell` | Page layout |
