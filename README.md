@@ -49,7 +49,7 @@ Use the tokens on `:root` (`--bg-panel`, `--ink`, `--st-ok`, `--st-warn`,
 Already a dependency in robots made with `hhart new`. Otherwise:
 
 ```text
-pnpm add github:HHART-Robotics/HHART-UI#v0.1.0
+pnpm add github:HHART-Robotics/HHART-UI#v0.1.1
 ```
 
 Ships TypeScript source for Vite to compile. React, React DOM and three.js are
